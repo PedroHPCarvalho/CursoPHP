@@ -19,7 +19,7 @@
         <div class="conteudo">
           <nav class="modulos">
             <div class="modulo verde">
-              <h3>Básico</h3>
+              <h3>Iniciando no PHP</h3>
               <ul>
                 <li>
                   <a href="exer.php?dir=Basico&file=ola">
@@ -50,7 +50,7 @@
               </ul>
             </div>
             <div class="modulo vermelho">
-              <h3>Tipos</h3>
+              <h3>Tipos Básicos</h3>
               <ul>
                   <li>
                     <a href="exer.php?dir=Tipos&file=int">
@@ -85,7 +85,7 @@
               </ul>
             </div>
             <div class="modulo azul">
-              <h3>Tipos</h3>
+              <h3>Váriavies e Constantes</h3>
               <ul>
                   <li>
                     <a href="exer.php?dir=Variaveis&file=basico">
@@ -115,6 +115,36 @@
                   <li>
                     <a href="exer.php?dir=Variaveis&file=constantes">
                       Constantes
+                    </a>
+                  </li>
+              </ul>
+            </div>
+            <div class="modulo roxo">
+              <h3>Estruturas de Controle</h3>
+              <ul>
+                  <li>
+                    <a href="exer.php?dir=Controle&file=if_else">
+                      IF ELSE
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Controle&file=operadores_logicos">
+                      Operadores Lógicos
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Controle&file=operadores_realacionais">
+                      Operadores Relacionais
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Controle&file=operador_ternario">
+                      Operadores Ternário
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Controle&file=switch">
+                      Switch
                     </a>
                   </li>
               </ul>
