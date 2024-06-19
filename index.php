@@ -92,6 +92,31 @@
                       Básico Váriaveis
                     </a>
                   </li>
+                  <li>
+                    <a href="exer.php?dir=Variaveis&file=atribuicoes">
+                      Atribuições
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Variaveis&file=interpolacao">
+                      Interpolação
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Variaveis&file=variaveis_variaveis">
+                      Váviaveis Váviaveis
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Variaveis&file=valor_referencia">
+                      Valor por Referência
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Variaveis&file=constantes">
+                      Constantes
+                    </a>
+                  </li>
               </ul>
             </div>
           </nav>

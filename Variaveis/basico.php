@@ -26,3 +26,6 @@ echo '<br>' . $variavel;
 
 $variavel = 'String';
 echo '<br>' . $variavel;
+
+echo '<br>';
+var_dump($_SERVER["HTTP_HOST"]);
