@@ -116,6 +116,9 @@ body{
 .modulo.azul {border: 2px solid #2196f3;}
 .modulo.azul > h3 {background-color: #2196f3;}
 
+.modulo.vermelho {border: 2px solid #f44336;}
+.modulo.vermelho > h3 {background-color: #f44336;}
+
 .modulo.roxo {border: 2px solid #9c27b0;}
 .modulo.roxo > h3 {background-color: #9c27b0;}
 
@@ -124,9 +127,6 @@ body{
 
 .modulo.verde-escuro {border: 2px solid #1b5e20;}
 .modulo.verde-escuro > h3 {background-color: #1b5e20;}
-
-.modulo.vermelho {border: 2px solid #f44336;}
-.modulo.vermelho > h3 {background-color: #f44336;}
 
 .modulo.vermelho-escuro {border: 2px solid #b71c1c;}
 .modulo.vermelho-escuro > h3 {background-color: #b71c1c;}

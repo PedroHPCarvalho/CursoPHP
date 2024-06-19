@@ -143,8 +143,53 @@
                     </a>
                   </li>
                   <li>
-                    <a href="exer.php?dir=Controle&file=switch">
+                    <a href="exer.php?dir=Controle&file=sw">
                       Switch
+                    </a>
+                  </li>
+              </ul>
+            </div>
+            <div class="modulo laranja">
+              <h3>Arrays</h3>
+              <ul>
+                  <li>
+                    <a href="exer.php?dir=Arrays&file=basicos_array">
+                      Básico de Arrays
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Arrays&file=map_array">
+                      Mapa Array
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Arrays&file=oper_array">
+                      Operações com Arrays
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Arrays&file=multidim_arrays">
+                      Arrays Multidimensionais
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Arrays&file=arrays_constantes">
+                      Arrays Constantes
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Arrays&file=usando_get">
+                      Utilizando GET
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Arrays&file=usando_post">
+                      Utilizando POST
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Arrays&file=comparacao_arrays">
+                      Comparação de Arrays
                     </a>
                   </li>
               </ul>
