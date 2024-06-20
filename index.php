@@ -194,6 +194,21 @@
                   </li>
               </ul>
             </div>
+            <div class="modulo verde-escuro">
+              <h3>Arrays</h3>
+              <ul>
+                  <li>
+                    <a href="exer.php?dir=Controle2&file=laco_for">
+                      Laço For
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Controle2&file=foreach">
+                      Foreach
+                    </a>
+                  </li>
+              </ul>
+            </div>
           </nav>
         </div>
     </main>
