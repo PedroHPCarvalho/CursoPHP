@@ -207,6 +207,16 @@
                       Foreach
                     </a>
                   </li>
+                  <li>
+                    <a href="exer.php?dir=Controle2&file=break_continue">
+                      Break e Continue
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Controle2&file=do_while_e_while">
+                      Do While/While;
+                    </a>
+                  </li>
               </ul>
             </div>
           </nav>
