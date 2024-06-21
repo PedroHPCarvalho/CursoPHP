@@ -195,7 +195,7 @@
               </ul>
             </div>
             <div class="modulo verde-escuro">
-              <h3>Arrays</h3>
+              <h3>Estruturas de Controle PARTE 2-</h3>
               <ul>
                   <li>
                     <a href="exer.php?dir=Controle2&file=laco_for">
@@ -215,6 +215,26 @@
                   <li>
                     <a href="exer.php?dir=Controle2&file=do_while_e_while">
                       Do While/While;
+                    </a>
+                  </li>
+              </ul>
+            </div>
+            <div class="modulo vermelho-escuro">
+              <h3>Funções</h3>
+              <ul>
+                  <li>
+                    <a href="exer.php?dir=Functions&file=funcoes_escopo">
+                      Funções e Escopo
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Functions&file=args_e_returns">
+                      Argumentos e Retornos
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Functions&file=args_variaveis">
+                      Argumentos Váriaveis
                     </a>
                   </li>
               </ul>
