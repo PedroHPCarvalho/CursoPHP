@@ -6,15 +6,33 @@ function soma($a,$b){
     return $a + $b;
 }
 
-echo soma(12.65). '<br>';
+echo soma(12,65) . '<br>';
+ 
 
-//Função com argumentos Váriaveis
-function somaVariavel(...$numero){
+//Função com agumentos váriaveis
+function somaCompleta(...$numeros){
     $soma = 0;
-    foreach($numero as $nun){
+    foreach($numeros as $num){
         $soma += $num;
     }
     return $soma;
 }
 
-echo somaVariavel(1,5,43,8);
+echo somaCompleta(1,2,3,4);
+
+$array = [6,7,8];
+
+function membros($titular,...$dependentes){
+    echo "Titular: $titular <br>";
+    if($dependentes){
+        foreach($dependentes as $dep){
+            echo "Dependentes $dep <br>";
+        }
+    }
+}
+
+echo '<br>';
+membros("Pedro","Ana","Davi","Julia");
+
+
+

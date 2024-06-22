@@ -237,6 +237,41 @@
                       Argumentos Váriaveis
                     </a>
                   </li>
+                  <li>
+                    <a href="exer.php?dir=Functions&file=args_padrao">
+                      Argumentos Padrão
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Functions&file=declarando_tipos">
+                      Declarando Tipos 
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Functions&file=funcoes_anonimas">
+                      Funções Anônimas
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Functions&file=closure_callable">
+                      Closure e Callable
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Functions&file=recursividade">
+                      Recursividade
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Functions&file=return_function">
+                      Retornando Funções
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Functions&file=map_e_filter">
+                      Map e Filter
+                    </a>
+                  </li>
               </ul>
             </div>
           </nav>
