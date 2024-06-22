@@ -274,6 +274,46 @@
                   </li>
               </ul>
             </div>
+            <div class="modulo azul-escuro">
+              <h3>Orientação a Objeto</h3>
+              <ul>
+                  <li>
+                    <a href="exer.php?dir=Orientacao_Objeto&file=primeira_class">
+                      Primeira Classe
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Orientacao_Objeto&file=construtor_destrutor">
+                      Construtor e Destrutor
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Orientacao_Objeto&file=heranca">
+                      Herança em PHP
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Orientacao_Objeto&file=modificadores_acesso">
+                      Modificadores de Acesso
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Orientacao_Objeto&file=static">
+                       Static
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Orientacao_Objeto&file=interfaces">
+                       Interfaces
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Orientacao_Objeto&file=classe_abstrata">
+                       Classe Abstrata
+                    </a>
+                  </li>
+              </ul>
+            </div>
           </nav>
         </div>
     </main>
