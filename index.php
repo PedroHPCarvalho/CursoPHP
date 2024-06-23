@@ -312,6 +312,31 @@
                        Classe Abstrata
                     </a>
                   </li>
+                  <li>
+                    <a href="exer.php?dir=Orientacao_Objeto&file=final">
+                       Final
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Orientacao_Objeto&file=traits01">
+                       Traits 01
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Orientacao_Objeto&file=traits02">
+                       Traits 02
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Orientacao_Objeto&file=metodos_magicos">
+                       Metodos Magicos
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Orientacao_Objeto&file=polimorfs">
+                      Polimorfismo
+                    </a>
+                  </li>
               </ul>
             </div>
           </nav>
