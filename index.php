@@ -339,6 +339,36 @@
                   </li>
               </ul>
             </div>
+            <div class="modulo roxo-escuro">
+              <h3>Orientação a Objeto</h3>
+              <ul>
+                  <li>
+                    <a href="exer.php?dir=Includes&file=include">
+                      Includes
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Includes&file=include_funcao">
+                      Includes em Funções
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Includes&file=include_vs_require">
+                      Include vs Require
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Includes&file=require_return">
+                      Require & Return
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Includes&file=include_once">
+                      Include Once
+                    </a>
+                  </li>
+              </ul>
+            </div>
           </nav>
         </div>
     </main>
