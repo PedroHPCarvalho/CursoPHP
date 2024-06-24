@@ -137,3 +137,12 @@ body{
 .modulo.roxo-escuro {border: 2px solid #4a148c;}
 .modulo.roxo-escuro > h3 {background-color: #4a148c;}
 
+.modulo.rosa {border: 2px solid #ff0084;}
+.modulo.rosa > h3 {background-color: #ff0084;}
+
+.modulo.cinza {border: 2px solid #7c7d7e;}
+.modulo.cinza > h3 {background-color: #7c7d7e;}
+
+.modulo.amarelo {border: 2px solid #d2cb00;}
+.modulo.amarelo > h3 {background-color: #d2cb00;}
+

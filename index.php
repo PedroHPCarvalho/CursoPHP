@@ -340,7 +340,7 @@
               </ul>
             </div>
             <div class="modulo roxo-escuro">
-              <h3>Orientação a Objeto</h3>
+              <h3>Include</h3>
               <ul>
                   <li>
                     <a href="exer.php?dir=Includes&file=include">
@@ -365,6 +365,26 @@
                   <li>
                     <a href="exer.php?dir=Includes&file=include_once">
                       Include Once
+                    </a>
+                  </li>
+              </ul>
+            </div>
+            <div class="modulo amarelo">
+              <h3>Namespace</h3>
+              <ul>
+                  <li>
+                    <a href="exer.php?dir=Namespace&file=namespace">
+                      Básico de Namespace
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Namespace&file=sub_namespace">
+                      Sub-Namespace
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Namespace&file=use_as">
+                      Use/As
                     </a>
                   </li>
               </ul>
