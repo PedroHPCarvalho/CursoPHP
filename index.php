@@ -369,7 +369,7 @@
                   </li>
               </ul>
             </div>
-            <div class="modulo amarelo">
+            <div class="modulo rosa">
               <h3>Namespace</h3>
               <ul>
                   <li>
@@ -385,6 +385,36 @@
                   <li>
                     <a href="exer.php?dir=Namespace&file=use_as">
                       Use/As
+                    </a>
+                  </li>
+              </ul>
+            </div>
+            <div class="modulo cinza">
+              <h3>Tratamento de Erro</h3>
+              <ul>
+                  <li>
+                    <a href="exer.php?dir=Tratamento_Erros&file=try_catch">
+                      Try/Catch
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Tratamento_Erros&file=erros_personalizados">
+                      Erros Personalizados
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=Tratamento_Erros&file=handler">
+                      Error Handler
+                    </a>
+                  </li>
+              </ul>
+            </div>
+            <div class="modulo amarelo">
+              <h3>Sessão & Cookies</h3>
+              <ul>
+                  <li>
+                    <a href="exer.php?dir=Namespace&file=namespace">
+                      Em Breve
                     </a>
                   </li>
               </ul>
