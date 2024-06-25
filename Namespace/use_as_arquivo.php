@@ -12,6 +12,6 @@ class Classe {
     public $var;
 
     function func(){
-        echo __NAMESPACE__ . '->' . __CLASS__ '->' . __METHOD__ '<br>';
+        echo __NAMESPACE__ . '->' . __CLASS__ . '->' . __METHOD__ . '<br>';
     }
 }
