@@ -390,7 +390,7 @@
               </ul>
             </div>
             <div class="modulo cinza">
-              <h3>Tratamento de Erro</h3>
+              <h3>Tratamento_Erros</h3>
               <ul>
                   <li>
                     <a href="exer.php?dir=Tratamento_Erros&file=try_catch">
@@ -405,16 +405,6 @@
                   <li>
                     <a href="exer.php?dir=Tratamento_Erros&file=handler">
                       Error Handler
-                    </a>
-                  </li>
-              </ul>
-            </div>
-            <div class="modulo amarelo">
-              <h3>Sessão & Cookies</h3>
-              <ul>
-                  <li>
-                    <a href="exer.php?dir=Namespace&file=namespace">
-                      Em Breve
                     </a>
                   </li>
               </ul>
