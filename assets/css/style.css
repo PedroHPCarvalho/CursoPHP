@@ -173,3 +173,14 @@ hr{
   margin-right: 10px;
 }
 
+.navegacao>a.verde {background-color: green;}
+.navegacao>a.vermelho {background-color: red;}
+
+span.usuario {
+  flex-grow: 1;
+  justify-content:  flex-start;
+  color: #fff;
+  padding-left: 10px;
+  font-size: 1.2rem;
+  font-weight: 300;
+}

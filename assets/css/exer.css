@@ -12,9 +12,6 @@ body.exer{
   height: calc(100vh - 240px);
 }
 
-.navegacao>a.verde {background-color: green;}
-.navegacao>a.vermelho {background-color: red;}
-
 .conteudo{
     font-size: 2rem;
 }
