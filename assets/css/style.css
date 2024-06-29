@@ -147,6 +147,15 @@ body{
 .modulo.amarelo {border: 2px solid #d2cb00;}
 .modulo.amarelo > h3 {background-color: #d2cb00;}
 
+.modulo.laranja-escuro {border: 2px solid #ff6f00;}
+.modulo.laranja-escuro > h3 {background-color: #ff6f00;}
+
+.modulo.azul-cinza {border: 2px solid #446688;}
+.modulo.azul-cinza > h3 {background-color: #446688;}
+
+.modulo.azul-claro {border: 2px solid #00f2ff;}
+.modulo.azul-claro > h3 {background-color: #00f2ff;}
+
 p.divisao{
   margin-bottom: 0px;
   font-weight: bold;

@@ -11,7 +11,7 @@ if(!$_SESSION['usuario']){
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
@@ -430,6 +430,26 @@ if(!$_SESSION['usuario']){
                   <li>
                     <a href="exer.php?dir=Tratamento_Erros&file=try_catch">
                       Básico de Sessões
+                    </a>
+                  </li>
+              </ul>
+            </div>
+            <div class="modulo laranja-escuro">
+              <h3>APIs</h3>
+              <ul>
+                  <li>
+                    <a href="exer.php?dir=API&file=datas1">
+                      Datas 1
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=API&file=datas2">
+                      Datas 2
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=API&file=escrever_arquivos">
+                      Escrever Arquivos
                     </a>
                   </li>
               </ul>
