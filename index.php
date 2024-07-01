@@ -452,6 +452,21 @@ if(!$_SESSION['usuario']){
                       Escrever Arquivos
                     </a>
                   </li>
+                  <li>
+                    <a href="exer.php?dir=API&file=lendo_arquivos">
+                      Lendo Arquivos
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=API&file=upload_arquivos">
+                      Upload de Arquivos
+                    </a>
+                  </li>
+                  <li>
+                    <a href="exer.php?dir=API&file=download_arquivos">
+                      Download de Arquivos
+                    </a>
+                  </li>
               </ul>
             </div>
           </nav>
