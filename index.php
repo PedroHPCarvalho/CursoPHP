@@ -469,6 +469,16 @@ if(!$_SESSION['usuario']){
                   </li>
               </ul>
             </div>
+            <div class="modulo azul-cinza">
+              <h3>Formulários</h3>
+              <ul>
+                <li>
+                  <a href="exer.php?dir=Formularios&file=criando_form">
+                      Criando o Formulários
+                  </a>
+                </li>
+              </ul>
+            </div>
           </nav>
         </div>
     </main>
