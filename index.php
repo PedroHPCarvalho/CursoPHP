@@ -479,6 +479,26 @@ if(!$_SESSION['usuario']){
                 </li>
               </ul>
             </div>
+            <div class="modulo azul-claro">
+              <h3>Banco de Dados</h3>
+              <ul>
+                <li>
+                  <a href="exer.php?dir=DB&file=criar_banco">
+                      Criando Banco de Dados
+                  </a>
+                </li>
+                <li>
+                  <a href="exer.php?dir=DB&file=criar_tabela">
+                      Criando Tabela no Banco de Dados
+                  </a>
+                </li>
+                <li>
+                  <a href="exer.php?dir=DB&file=inserir_1">
+                      Inserir Registro #01
+                  </a>
+                </li>
+              </ul>
+            </div>
           </nav>
         </div>
     </main>
