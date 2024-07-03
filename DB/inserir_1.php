@@ -1,4 +1,4 @@
-<div class="Titulo">Inserir Registro 1</div>
+<div class="Titulo">Inserir Registro #1</div>
 
 <?php 
 require_once "conexao_bd.php";

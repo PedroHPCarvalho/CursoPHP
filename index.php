@@ -494,7 +494,7 @@ if(!$_SESSION['usuario']){
                 </li>
                 <li>
                   <a href="exer.php?dir=DB&file=inserir_1">
-                      Inserir Registro #
+                      Inserir Registro #1
                   </a>
                 </li>
                 <li>
@@ -505,6 +505,16 @@ if(!$_SESSION['usuario']){
                 <li>
                   <a href="exer.php?dir=DB&file=excluir">
                       Excluir Registro #1
+                  </a>
+                </li>
+                <li>
+                  <a href="exer.php?dir=DB&file=inserir_2">
+                      Inserir Registro #2
+                  </a>
+                </li>
+                <li>
+                  <a href="exer.php?dir=DB&file=alterar">
+                      Alterar Registro
                   </a>
                 </li>
               </ul>
